@@ -84,6 +84,7 @@ main{
     font-size: 17px;
     opacity: 0;
     animation: paragraph 0.3s 1.5s both ease-in;
+    padding: 0 10px;
 }
 .nav{
     width: 100%;
